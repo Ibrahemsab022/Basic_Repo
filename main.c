@@ -7,7 +7,7 @@ int main
 {
 
 
-	
+char arr[10] = {"New Commit"};
 
 	char y = 12;
 
