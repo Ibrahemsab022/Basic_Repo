@@ -13,6 +13,9 @@ int main
 	int y = z + x;
 	/*********************/
 	
+	int p = z + 1;
+	
+	
 	while (1)
 	{
 		
