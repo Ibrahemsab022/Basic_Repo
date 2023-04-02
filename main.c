@@ -22,6 +22,9 @@ char arr[10] = {"New Commit"};
 	int p = z + 1;
 	
 	
+	
+	
+	
 	while (1)
 	{
 		
